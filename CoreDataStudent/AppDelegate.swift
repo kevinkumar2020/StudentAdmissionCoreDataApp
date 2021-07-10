@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CoreDataStudent
 //
-//  Created by JinalGangani on 08/07/21.
+//  Created by Kevin on 08/07/21.
 //
 
 import UIKit
