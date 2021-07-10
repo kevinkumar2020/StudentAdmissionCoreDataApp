@@ -24,7 +24,6 @@
        
 ### Application View
 
-![image](https://user-images.githubusercontent.com/66861727/125158883-725ae880-e191-11eb-98a7-4a312b0414d0.png)
 
 
 ![1](https://user-images.githubusercontent.com/66861727/125158289-ad5b1d00-e18d-11eb-988a-26651748a2f3.PNG)
