@@ -2,7 +2,7 @@
 //  RDstudVC.swift
 //  CoreDataStudent
 //
-//  Created by JinalGangani on 09/07/21.
+//  Created by Kevin on 09/07/21.
 //
 
 import UIKit
